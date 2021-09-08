@@ -210,3 +210,24 @@ function kataBonus4() {
 function kataBonus5() {
     // implemente o código do kata bonus 5 aqui
 }
+
+const botao = document.querySelector("button")
+
+botao.addEventListener("click", kata1)
+botao.addEventListener("click", kata2)
+botao.addEventListener("click", kata3)
+botao.addEventListener("click", kata4)
+botao.addEventListener("click", kata5)
+botao.addEventListener("click", kata6)
+botao.addEventListener("click", kata7)
+botao.addEventListener("click", kata8)
+botao.addEventListener("click", kata9)
+botao.addEventListener("click", kata10)
+botao.addEventListener("click", kata11)
+botao.addEventListener("click", kata12)
+botao.addEventListener("click", kata13)
+botao.addEventListener("click", kata14)
+botao.addEventListener("click", kata15)
+botao.addEventListener("click", kata16)
+botao.addEventListener("click", kata17)
+botao.addEventListener("click", kata18)
